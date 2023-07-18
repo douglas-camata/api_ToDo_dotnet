@@ -22,7 +22,7 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
   "id": 0,
   "titulo": "string",
   "descricao": "string",
-  "data": "2022-06-08T01:31:07.056Z",
-  "status": "Pendente"
+  "data": "2023-07-18T01:31:07.056Z",
+  "status": "0"
 }
 ```
